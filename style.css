@@ -1,27 +1,27 @@
 
 :root {
-    --bg-white: rgb(50, 25, 210);
-    --bg-maroon: #3d11d0;
-    --bg-light-gray: rgb(206, 20, 48);
-    --bg-jet: rgb(198, 12, 12);
-    --bg-eerie-black: rgb(174, 13, 53);
+    --bg-white: rgb(234, 225, 222);
+    --bg-maroon: #6014e4;
+    --bg-light-gray: rgb(24, 224, 14);
+    --bg-jet: rgb(30, 221, 13);
+    --bg-eerie-black: rgb(223, 212, 215);
     --bg-rich-black-fogra-29: rgb(23, 35, 196);
-    --bg-smoky-black: rgb(103, 54, 54);
-    --bg-black: rgb(182, 25, 25);
+    --bg-smoky-black: rgb(77, 28, 214);
+    --bg-black: rgb(29, 11, 219);
   
     /* gradient colors */
     --gradient-1: linear-gradient(to top, var(--bg-black) 0%, transparent 40%);
     --gradient-2: radial-gradient(circle at 75% 100%, hsla(295, 90%, 47%, 0.3) 0%, transparent 100%);
   
     /* text colors */
-    --text-white: hsla(0, 0%, 100%, 1);
-    --text-light-gray: hsla(240, 1%, 83%, 1);
-    --text-rich-black-fogra-29: rgb(217, 222, 231);
-    --text-smoky-black: rgb(212, 194, 194);
-    --text-black: rgb(67, 74, 5);
+    --text-white: rgb(230, 240, 230);
+    --text-light-gray: rgb(222, 234, 217);
+    --text-rich-black-fogra-29: rgb(204, 215, 202);
+    --text-smoky-black: rgb(197, 221, 198);
+    --text-black: rgb(238, 246, 237);
   
     /* border colors */
-    --border-white: hsla(0, 0%, 100%, 1);
+    --border-white: rgb(237, 226, 226);
     --border-light-gray: hsla(240, 1%, 83%, 1);
     --border-gainsboro: hsla(220, 13%, 91%, 1);
     --border-eerie-black: rgb(237, 226, 226);
