@@ -2,11 +2,11 @@
 :root {
     --bg-white: rgb(234, 225, 222);
     --bg-maroon: #616ae2;
-    --bg-light-gray: rgb(224, 73, 14);
-    --bg-jet: rgb(221, 72, 13);
+    --bg-light-gray: rgb(153, 133, 209);
+    --bg-jet: rgb(153, 144, 194);
     --bg-eerie-black: rgb(223, 212, 215);
     --bg-rich-black-fogra-29: rgba(163, 145, 228, 0.897);
-    --bg-smoky-black: rgb(231, 104, 20);
+    --bg-smoky-black: rgb(148, 128, 204);
     --bg-black: rgb(22, 15, 56);
   
     /* gradient colors */
