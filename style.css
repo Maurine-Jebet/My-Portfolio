@@ -1,13 +1,13 @@
 
 :root {
     --bg-white: rgb(234, 225, 222);
-    --bg-maroon: #6014e4;
-    --bg-light-gray: rgb(24, 224, 14);
-    --bg-jet: rgb(30, 221, 13);
+    --bg-maroon: #616ae2;
+    --bg-light-gray: rgb(224, 73, 14);
+    --bg-jet: rgb(221, 72, 13);
     --bg-eerie-black: rgb(223, 212, 215);
-    --bg-rich-black-fogra-29: rgb(23, 35, 196);
-    --bg-smoky-black: rgb(77, 28, 214);
-    --bg-black: rgb(29, 11, 219);
+    --bg-rich-black-fogra-29: rgba(163, 145, 228, 0.897);
+    --bg-smoky-black: rgb(231, 104, 20);
+    --bg-black: rgb(22, 15, 56);
   
     /* gradient colors */
     --gradient-1: linear-gradient(to top, var(--bg-black) 0%, transparent 40%);
